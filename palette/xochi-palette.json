@@ -1,0 +1,27 @@
+{
+  "core": {
+    "obsidian": "#0a0a0c",
+    "deepNight": "#12121a",
+    "pearlCream": "#e8e4dc",
+    "cryptoFrost": "#fdfff9",
+    "mutedGold": "#a89a80"
+  },
+  "accents": {
+    "axolCoral": "#ffcd9c",
+    "decentralizedCoral": "#e58476",
+    "cryptowaveSky": "#58a1c6",
+    "nodeIndigo": "#28338b"
+  },
+  "status": {
+    "warning": "#fbbf24",
+    "success": "#4ade80",
+    "error": "#f87171"
+  },
+  "tiers": {
+    "standard": "#a89a80",
+    "trusted": "#58a1c6",
+    "verified": "#7b8ad9",
+    "premium": "#ffcd9c",
+    "institutional": "#e58476"
+  }
+}

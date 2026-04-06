@@ -1,0 +1,49 @@
+/* Xochi Brand Palette -- CSS Custom Properties */
+/* Source of truth: https://github.com/xochi-fi/xochi src/styles/base.css */
+
+:root {
+  /* Core */
+  --obsidian: #0a0a0c;
+  --deep-night: #12121a;
+  --pearl-cream: #e8e4dc;
+  --crypto-frost: #fdfff9;
+  --muted-gold: #a89a80;
+
+  /* Brand accents */
+  --axol-coral: #ffcd9c;
+  --decentralized-coral: #e58476;
+  --cryptowave-sky: #58a1c6;
+  --node-indigo: #28338b;
+
+  /* Muted Gold opacity scale */
+  --muted-gold-subtle: rgba(168, 154, 128, 0.08);
+  --muted-gold-10: rgba(168, 154, 128, 0.1);
+  --muted-gold-15: rgba(168, 154, 128, 0.15);
+  --muted-gold-25: rgba(168, 154, 128, 0.25);
+  --muted-gold-30: rgba(168, 154, 128, 0.3);
+  --muted-gold-glow: rgba(168, 154, 128, 0.4);
+
+  /* Panel surfaces */
+  --panel-bg: rgba(18, 18, 26, 0.85);
+  --panel-bg-elevated: rgba(18, 18, 26, 0.9);
+  --panel-bg-subtle: rgba(18, 18, 26, 0.7);
+  --panel-border: rgba(168, 154, 128, 0.12);
+  --panel-border-hover: rgba(168, 154, 128, 0.2);
+
+  /* Text (Pearl Cream base) */
+  --text-secondary: rgba(232, 228, 220, 0.6);
+  --text-muted: rgba(232, 228, 220, 0.5);
+  --text-faint: rgba(232, 228, 220, 0.4);
+
+  /* Status */
+  --color-warning: #fbbf24;
+  --color-success: #4ade80;
+  --color-error: #f87171;
+
+  /* Trust tier colors */
+  --tier-standard: #a89a80;
+  --tier-trusted: #58a1c6;
+  --tier-verified: #7b8ad9;
+  --tier-premium: #ffcd9c;
+  --tier-institutional: #e58476;
+}
